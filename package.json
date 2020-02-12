@@ -1,0 +1,42 @@
+{
+  "name": "ticketingsystem",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.0"
+  },
+  "dependencies": {
+    "aadhaar-validator": "^1.1.0",
+    "bootstrap": "^4.3.1",
+    "crypto-js": "^3.1.9-1",
+    "express-recaptcha": "^5.0.1",
+    "mysql": "^2.18.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-responsive-carousel": "^3.1.50",
+    "react-scripts": "^3.3.1",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
