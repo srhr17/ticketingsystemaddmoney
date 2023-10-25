@@ -9,7 +9,7 @@
   "dependencies": {
     "aadhaar-validator": "^1.1.0",
     "bootstrap": "^4.3.1",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "express-recaptcha": "^5.0.1",
     "mysql": "^2.18.1",
     "react": "^16.9.0",
